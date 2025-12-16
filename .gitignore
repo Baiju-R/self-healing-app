@@ -1,18 +1,14 @@
-# Binaries
+# Large binaries
 minikube-linux-amd64
 *.bin
 
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Virtual env
-venv/
-
-# Docker
+# Kubernetes
 *.log
 
 # OS
 .DS_Store
+
