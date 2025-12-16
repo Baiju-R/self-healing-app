@@ -1,0 +1,18 @@
+# Binaries
+minikube-linux-amd64
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+
+# Docker
+*.log
+
+# OS
+.DS_Store
