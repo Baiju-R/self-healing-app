@@ -9,3 +9,4 @@ Endpoints:
 - /cpu-stress – simulate high CPU load
 - /memory-stress – simulate memory leak
 - /crash – force application crash
+# self-healing-app
